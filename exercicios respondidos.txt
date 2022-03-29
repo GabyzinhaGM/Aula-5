@@ -1,0 +1,68 @@
+Respostas exercícios aula 5.
+					1- R:
+ IV. João é professor de matemática.
+2- R:
+ c. Antônio não passa na prova ou não vai ao cinema em Novo
+Horizonte.
+
+3- R: 
+algoritmo para fazer café.  
+1 colocar a água na caneca.
+ 2 colocar a caneca no fogão.
+ 3 acender o fogão.
+4 abrir o pó de café.
+5 pegar a colher.
+6 colocar o pó de café no coador.
+ 7 quando a agua ferver desligar o fogo.
+ 8 colocar o coador em cima da garrafa de café.
+ 9 coar o café.
+ 
+4- R: 
+algoritmo para fazer compras de remédios.
+1 se arrumar
+2 pegar o cartão
+3 abrir a porta da casa.
+4 sair da casa.
+5 fechar a porta.
+6 ir a farmacia;
+7 entrar na farmacia
+8 ir na prateleira de remédios
+9 pegar o remédio
+10 ir ao caixa
+11 pagar o remédio
+
+5- R:
+algoritmo para fazer um bolo de chocolate.
+1 separar os ingredientes 
+2 pegar o liquidificador.
+3 por os ingredientes liquido no liquidificador.
+4 ligar o liquidificador 
+5 misturar o restante dos ingredientes
+6 untar a forma.
+7 colocar a mistura na forma
+8 levar ao forno;
+9 ligar o forno 
+
+Fluxograma
+
+circulo início
+
+retangulo deitado- entrada número A, número B
+(retangulo-resultado=A+B)
+bandeirinha mostrar	 o resultado 
+circulo fim
+
+2-
+
+(circulo inicio)
+(retangulo deitado  Número A, b)
+retangulo resultado= a/b
+bandeirinha mostra o resultado
+Circulo fim
+
+4-  R:
+
+circulo inicio
+retangulo deitado numero A,b
+losango Comparar numero A,b.
+Bandeirinha exibir o resultado.
